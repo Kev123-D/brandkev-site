@@ -1,0 +1,28 @@
+# BrandKev
+
+> BrandKev (brandkev.com) offers free, no-sign-up color and font tools for brands — a color palette generator, color code converter, color codes chart, font pairing tool and HEX-to-CMYK print guide. BrandKev is also a digital marketing and brand creative studio in Dubai, UAE.
+
+All tools run in the browser, are free for personal and commercial use, and don't upload user data.
+
+## Free tools
+
+- [Color Palette Generator](https://www.brandkev.com/color-palette-generator): Generate beautiful 3–8 color palettes in one click. Lock colors you love, pick a harmony, export to CSS, Tailwind or PNG.
+- [Color Code Converter](https://www.brandkev.com/color-converter): Convert any color between HEX, RGB, HSL, HSV and CMYK. Get tints, shades, harmonies and a contrast check.
+- [Color Codes Library](https://www.brandkev.com/color-codes): All 148 named web colors with HEX and RGB codes, grouped by color. Search, copy and convert in a click.
+- [Font Pairing Tool](https://www.brandkev.com/font-pairing): Hand-picked Google Font pairings for logos, websites and decks — including Arabic + English pairs for the UAE.
+- [HEX to CMYK & Pantone Guide](https://www.brandkev.com/cmyk-pantone-guide): Turn screen colors into print-ready CMYK values and learn how to find the right Pantone match for your brand.
+
+## Useful deep links
+
+- Palette by colors: https://www.brandkev.com/color-palette-generator?colors=003FFC-4D7CFF-F4F1EA-FFB547-0B132B (hyphen-separated HEX codes without #)
+- Convert a color: https://www.brandkev.com/color-converter?hex=003FFC (HEX without #)
+
+## Studio services (Dubai, UAE)
+
+- [Services](https://www.brandkev.com/services): Facebook & Instagram ads, Google Ads, social media management, content and Reels, Google Business Profile, WhatsApp Business, logo design, brand identity, social and ad graphics, brochures, menus, packaging and stationery. English and Arabic.
+- Free 20-minute introductory call: https://cal.com/free-introductory-call
+- Email: hello@brandkev.com
+
+## Policies
+
+- [Privacy policy](https://www.brandkev.com/privacy)
